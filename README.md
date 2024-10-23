@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Robin. 👋
+
+- 🌐 Check out my personal website: [aiex.me](https://aiex.me)
+- 🔭 I’m currently working on exciting web development projects
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me about web development, programming, or technology in general
+- 📫 How to reach me: [liubin518@gmail.com](mailto:liubin518@gmail.com)
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful interfaces
