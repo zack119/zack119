@@ -24,3 +24,5 @@ Hi, I'm Robin. 👋
 - 💬 Ask me about web development, programming, or technology in general
 - 📫 How to reach me: [liubin518@gmail.com](mailto:liubin518@gmail.com)
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful interfaces
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zack119)
