@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zack119/zack119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Robin. 👋
+Hi, I'm **Robin**. 👋
 
 - 🌐 Check out my personal website: [aiex.me](https://aiex.me)
 - 🎄 LinkTree at [linktr.ee/zack119](https://linktr.ee/zack119)
