@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 Hi, I'm **Robin**. 👋
 
 - 🌐 Check out my personal website: [aiex.me](https://aiex.me)
 - 🎄 LinkTree at [linktr.ee/zack119](https://linktr.ee/zack119)
+- 📫 ko-fi at [https://ko-fi.com/robin20766](https://ko-fi.com/robin20766)
 - 🔭 I’m currently working on exciting web development projects
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about web development, programming, or technology in general
