@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm **Robin**. 👋
 
-- 🌐 Check out my personal website: [aitu.be](https://aitube.be)
+- 🌐 Check out my personal website: [aitu.be](https://aitu.be)
 - 🎄 LinkTree at [linktr.ee/zack119](https://linktr.ee/zack119)
 - 🎄 LinkTree at [bio.site](https://bio.site/robin518)
 - 📫 ko-fi at [ko-fi.com](https://ko-fi.com/robin20766)
